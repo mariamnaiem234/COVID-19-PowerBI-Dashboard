@@ -71,11 +71,11 @@ The country-level dashboard allows users to select a country and analyze:
 
 ### Global Overview
 
-![Global Overview](Screenshots/Screenshots/covid 19 1.png)
+![Global Overview](Screenshots/Screenshots/covid%2019%201.png)
 
 ### Country Analysis
 
-![Country Analysis](Screenshots/Screenshots/covied 19 2.png)
+![Country Analysis](Screenshots/Screenshots/covied%2019%202.png)
 
 ---
 
